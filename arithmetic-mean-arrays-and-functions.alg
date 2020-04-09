@@ -1,7 +1,6 @@
 algoritmo "Média Aritmética"
 // Autor : Vinícius Granado
 // Data : 07/04/2020
-// Seção de Declarações
 
 //------------------------------------------------------------------------------------------+
 // Descrição   : Algoritmo calcula a média aritmética dos alunos de uma sala de aula.
